@@ -1,9 +1,11 @@
 # Movie_project
 Data science / Jupiter notebook
+##
 # Project Details
 you will conduct your own data analysis and create a file to share that documents your findings. You should start by taking a look at your dataset and brainstorming what questions you could answer using it. Then you should use pandas and NumPy to answer the questions you are most interested in, and create a report sharing the answers. You will not be required to use inferential statistics or machine learning to complete this project, but you should make it clear in your communications that your findings are tentative. This project is open-ended in that we are not looking for one right answer.
-Movie Data Set
-Data Set: TMDb Movie Data(opens in a new tab). This data is cleaned from the original TMDB 5000 Movie Dataset(opens in a new tab) on Kaggle.com.
+
+# Movie Data Set
+Data Set: [TMDb Movie Data(opens in a new tab)](https://video.udacity-data.com/topher/2022/November/6375a7af_tmdb-movies.csv/tmdb-movies.csv.zip). This data is cleaned from the original [TMDB 5000 Movie Dataset(opens in a new tab)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) on Kaggle.com.
 
 Overview and Notes This data set contains information about movies, including user ratings and revenue.
 
